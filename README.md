@@ -31,10 +31,10 @@ You can find the repository here: [https://github.com/msherazy/eg-api](https://g
 3. Set up environment variables by creating a `.env` file with the following content:
 
    ```bash
-   DB_URI=mongodb+srv://admin:rXtxqCzXfn9blhWB@cluster0.esyfc.mongodb.net/eg_server?retryWrites=true&w=majority&appName=Cluster0
-   DB_NAME=eg_server
-   ACCESS_TOKEN_SECRET=3457c6ae2dab0252ca71f83e3e26f2277d5bebac851791257464c69e89f39f21805a45f40ef7b63f422a78531d8e18c8ae66a39e9053ea6d518da367aced1b19
-   ACCESS_TOKEN_EXPIRY=3600s
+   DB_URI=
+   DB_NAME=
+   ACCESS_TOKEN_SECRET=
+   ACCESS_TOKEN_EXPIRY=
    ```
 
 ---
